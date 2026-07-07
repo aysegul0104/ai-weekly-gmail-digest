@@ -11,7 +11,7 @@ An automated workflow built with **n8n** and **Google Gemini** that summarizes G
 The workflow automatically retrieves Gmail messages, processes them with JavaScript, sends them to Google Gemini for analysis, and delivers a clean HTML summary email.
 
 <p align="center">
-  <img src="screenShots/workflow.png" alt="Workflow Overview" width="800">
+  <img src="screenShots/Workflow.png" alt="Workflow Overview" width="800">
 </p>
 
 ---
@@ -21,7 +21,7 @@ The workflow automatically retrieves Gmail messages, processes them with JavaScr
 Google Gemini analyzes incoming emails, categorizes them into meaningful groups, extracts action items, and generates a modern HTML email report.
 
 <p align="center">
-  <img src="screenShots/ai-processing.png" alt="AI Processing" width="800">
+  <img src="screenShots/ai processing.png" alt="AI Processing" width="800">
 </p>
 
 ---
