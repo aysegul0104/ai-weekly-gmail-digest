@@ -10,7 +10,7 @@ The workflow automatically retrieves Gmail messages, processes them with JavaScr
 <p align="center">
   <img src="images/workflow.png" alt="Workflow Overview" width="900">
 </p>
-
+![Workflow](screenShots/workflow.png)
 ---
 
 ## 🤖 AI Processing
@@ -20,7 +20,7 @@ Google Gemini analyzes incoming emails, categorizes them into meaningful groups,
 <p align="center">
   <img src="images/ai-processing.png" alt="AI Processing" width="900">
 </p>
-
+![AI Processing](screenShots/ai-processing.png)
 ---
 
 ## 📧 Generated Email
@@ -30,3 +30,4 @@ Example of the final AI-generated HTML email delivered to the user's inbox.
 <p align="center">
   <img src="images/result-email.png" alt="Generated Email" width="900">
 </p>
+![Generated Email](screenShots/result-email.png)
